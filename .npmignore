@@ -1,0 +1,25 @@
+# Source files (dist is published)
+src/
+
+# TypeScript config
+tsconfig.json
+
+# Development files
+.git/
+.gitignore
+.github/
+.vscode/
+
+# Test files
+*.test.ts
+*.spec.ts
+__tests__/
+coverage/
+
+# Build artifacts
+node_modules/
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,58 @@
+{
+  "name": "@joel5326/contract-first-parallel-dev",
+  "version": "1.0.0",
+  "description": "Contract-first parallel development methodology for AI agents - proven methodology for building production-quality software with N parallel agents and zero coordination overhead",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "cfpd": "./bin/cfpd.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "node --test",
+    "clean": "rimraf dist"
+  },
+  "keywords": [
+    "contract-first",
+    "parallel-development",
+    "ai-agents",
+    "typescript",
+    "domain-driven-design",
+    "api-contracts",
+    "code-generation",
+    "multi-agent",
+    "claude",
+    "llm"
+  ],
+  "author": "joel5326",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joel5326/contract-first-parallel-dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joel5326/contract-first-parallel-dev/issues"
+  },
+  "homepage": "https://github.com/joel5326/contract-first-parallel-dev#readme",
+  "files": [
+    "dist",
+    "bin",
+    "templates",
+    "docs",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "rimraf": "^5.0.0"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "chalk": "^4.1.2",
+    "glob": "^10.0.0"
+  }
+}
