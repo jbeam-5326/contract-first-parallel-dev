@@ -175,10 +175,10 @@ Spend 80% of effort on Step 2 (vocabulary extraction). If the vocabulary is comp
 
 ## Documentation
 
-- [METHODOLOGY.md](./docs/METHODOLOGY.md) - Complete step-by-step process
-- [QUICK-START.md](./docs/QUICK-START.md) - 5-minute getting started
-- [LESSONS-LEARNED.md](./docs/LESSONS-LEARNED.md) - Hard-won wisdom from experiments
-- [SPAWN-AGENTS.md](./docs/SPAWN-AGENTS.md) - Copy-paste prompts for agents
+- [METHODOLOGY.md](https://github.com/jbeam-5326/contract-first-parallel-dev/blob/master/docs/METHODOLOGY.md) - Complete step-by-step process
+- [QUICK-START.md](https://github.com/jbeam-5326/contract-first-parallel-dev/blob/master/docs/QUICK-START.md) - 5-minute getting started
+- [LESSONS-LEARNED.md](https://github.com/jbeam-5326/contract-first-parallel-dev/blob/master/docs/LESSONS-LEARNED.md) - Hard-won wisdom from experiments
+- [SPAWN-AGENTS.md](https://github.com/jbeam-5326/contract-first-parallel-dev/blob/master/docs/SPAWN-AGENTS.md) - Copy-paste prompts for agents
 
 ## When to Use This
 

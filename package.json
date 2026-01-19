@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joel5326/contract-first-parallel-dev.git"
+    "url": "git+https://github.com/jbeam-5326/contract-first-parallel-dev.git"
   },
   "bugs": {
-    "url": "https://github.com/joel5326/contract-first-parallel-dev/issues"
+    "url": "https://github.com/jbeam-5326/contract-first-parallel-dev/issues"
   },
-  "homepage": "https://github.com/joel5326/contract-first-parallel-dev#readme",
+  "homepage": "https://github.com/jbeam-5326/contract-first-parallel-dev#readme",
   "files": [
     "dist",
     "bin",

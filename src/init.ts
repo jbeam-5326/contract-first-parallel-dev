@@ -568,8 +568,8 @@ ${domains.map(d => `    └── ${d.toLowerCase()}/
 ## Methodology
 
 For complete methodology documentation, see:
-- [METHODOLOGY.md](https://github.com/joel5326/contract-first-parallel-dev/blob/main/docs/METHODOLOGY.md)
-- [QUICK-START.md](https://github.com/joel5326/contract-first-parallel-dev/blob/main/docs/QUICK-START.md)
-- [LESSONS-LEARNED.md](https://github.com/joel5326/contract-first-parallel-dev/blob/main/docs/LESSONS-LEARNED.md)
+- [METHODOLOGY.md](https://github.com/jbeam-5326/contract-first-parallel-dev/blob/main/docs/METHODOLOGY.md)
+- [QUICK-START.md](https://github.com/jbeam-5326/contract-first-parallel-dev/blob/main/docs/QUICK-START.md)
+- [LESSONS-LEARNED.md](https://github.com/jbeam-5326/contract-first-parallel-dev/blob/main/docs/LESSONS-LEARNED.md)
 `;
 }
